@@ -27,6 +27,8 @@ This project utilizes computer vision techniques to perform real-time face recog
       pip install deepface
    ```
 3. Run the program:
-   ```python gender.py
+
+   ```
+   python gender.py
 
    ```

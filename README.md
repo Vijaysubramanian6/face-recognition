@@ -19,10 +19,14 @@ This project utilizes computer vision techniques to perform real-time face recog
 ## Installation
 
 1. Clone the repository:
-   ````bash
-   git clone https://github.com/your_username/face-recognition.git```
-   ````
+   ```bash
+   git clone https://github.com/your_username/face-recognition.git
+   ```
 2. Install the required libraries:
-   ````pip install opencv-python-headless
-      pip install deepface```
-   ````
+   ```pip install opencv-python-headless
+      pip install deepface
+   ```
+3. Run the program:
+   ```python gender.py
+
+   ```
